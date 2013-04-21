@@ -1,0 +1,14 @@
+<html>
+<head>
+  <center><h4> FUNCIONES DE MANIPULACION DE CADENAS</h4></center>
+</head>
+<body>
+<center>
+<?php
+$cad = "cadena"; //Prueba a canbiar el texto cadena por otro
+$n = strlen($cad);
+echo "La longitud de la cadena es: $n";
+?>
+</center>
+</body>
+</html>
